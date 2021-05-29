@@ -1,0 +1,12 @@
+.bottomcorner {
+    position: absolute;
+    bottom: -16px;
+    left: 0px;
+  }
+  p {
+    width: 50px;
+    background-color: black;
+    color: wheat;
+    padding: 10px;
+  
+  }
